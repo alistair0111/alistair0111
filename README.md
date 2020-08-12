@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning DataStructures and Algorithm and React Application Development.
+- 🌱 I’m currently learning DataStructures and Algorithms and React Application Development.
 - 💬 Ask me about deep-learning architectures and data science in general.
 - 📫 How to reach me: alistair7@protonmail.com
 
