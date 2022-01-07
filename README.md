@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 DataStructures and Algorithms and React Application Development.
-- 💬 Ask me about deep-learning architectures and data science in general.
+- 💬 I love learning new stuff.
 - 📫 How to reach me: alistair7@protonmail.com
 
 
